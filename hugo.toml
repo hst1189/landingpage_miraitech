@@ -1,4 +1,4 @@
-baseurl = "https://test.com" 
+baseurl = "https://test.com/landingpage_miraitech/" 
 title = "Mirai Tech"
 theme = "hugo-universal-theme"
 
